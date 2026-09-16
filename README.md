@@ -1,4 +1,3 @@
-# Gestor-incidencias
 # Gestor de incidencias
 
 Programa en C para el control básico de incidencias: alta, listado y cambio de estado. Ejercicio de aprendizaje.
